@@ -1,0 +1,27 @@
+{
+  "name": "hidden-from-bots",
+  "version": "1.0.0",
+  "description": "Say goodbye to bots looking for emails and phone numbers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErikGIovani/hidden-from-bots.git"
+  },
+  "keywords": [
+    "webs",
+    "email",
+    "number",
+    "phone",
+    "bots",
+    "hide"
+  ],
+  "author": "Erik Giovani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ErikGIovani/hidden-from-bots/issues"
+  },
+  "homepage": "https://github.com/ErikGIovani/hidden-from-bots#readme"
+}
