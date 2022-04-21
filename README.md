@@ -133,7 +133,7 @@ And in the value of the **data-hidden-from-bots** attribute put the first parame
 <body>
    <p data-hidden-from-bots="email1">Email</p>
    <p data-hidden-from-bots="email2">Email</p>
-   <p data-hidden-from-bots="email2">Email</p>
+   <p data-hidden-from-bots="email3">Email</p>
 
     <script type="module" src="./script.js"></script>
 </body>
