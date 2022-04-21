@@ -1,6 +1,6 @@
 {
   "name": "hidden-from-bots",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Say goodbye to bots looking for emails and phone numbers.",
   "main": "index.js",
   "scripts": {
