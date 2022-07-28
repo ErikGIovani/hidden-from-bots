@@ -7,6 +7,7 @@ export const emailHiddenF = (email) => {
         }
     }
 };
+
   
 export const phoneHiddenF = (phone) => {
     const phoneHidden = document.querySelectorAll('[data-hidden-from-bots="phone"]');
@@ -18,6 +19,7 @@ export const phoneHiddenF = (phone) => {
     }
 };
 
+
 export const multiEmailHiddenF = (name, email) => {
     const multiEmailHidden = document.querySelectorAll(`[data-hidden-from-bots="${name}"]`);
     for (let i = 0; i < multiEmailHidden.length; i++) {
@@ -27,6 +29,7 @@ export const multiEmailHiddenF = (name, email) => {
         }
     }
 };
+
 
 export const multiPhoneHiddenF = (name, phone) => {
     const multiPhoneHidden = document.querySelectorAll(`[data-hidden-from-bots="${name}"]`);
