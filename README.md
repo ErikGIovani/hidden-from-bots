@@ -135,3 +135,13 @@ And in the value of the **data-hidden-from-bots** attribute put the first parame
 </body>
 </html>
 ```
+
+</div>
+
+---
+
+<div align="center">
+
+Made with ❤️ by **Erik Giovani**
+
+</div>
